@@ -1,0 +1,73 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+/* Start top bar */
+.top-bar {
+    padding: 10px;
+}
+.info-top {
+    color: white;
+    margin: 0px 10px;
+}
+nav > div > div > ul {
+    margin-left: auto;
+}
+
+/* End top bar */
+
+/* Start Slider */
+
+h1 {
+    font-size: 60px;
+}
+
+.carousel-caption {
+    margin-bottom: -60px;
+}
+
+/* End Slider */
+
+/* Start Devis */
+
+.devis {
+    background-color: #2f2f2f;
+}
+
+.devi > .container {
+    height: 611px;
+}
+
+h2 {
+    font-size: 40px;
+    padding: 30px 0px 10px;
+}
+
+.white-center {
+    color: white;
+    text-align: center;
+}
+
+.intro-devis {
+    margin-top: -20px;
+}
+
+form > input {
+    padding: 10px;
+}
+
+.envoie {
+    background-color: rgba(47, 47, 47, 0.1);
+    border: 1px solid white;
+    color: white;
+    opacity: 0.9;
+    font-size: 20px
+}
+/* End Devis */
+
+/* Start card */
+.cardhaut {
+    margin-top: -280px;
+}
+
+/* End card */
